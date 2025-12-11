@@ -22,7 +22,7 @@ A TelecomX enfrenta um alto índice de evasão de clientes. Este projeto realiza
 Clique no botão acima ou acesse diretamente:
 ``
 https://colab.research.google.com/github/SAGIEV007/Analise-de-Churn-TelecomX/blob/main/Analise%20de%20Churn.ipynb
-``
+`
 ### Opção 2: Executar Localmente
 ``bash
 # Clonar o repositório
